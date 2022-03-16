@@ -12,3 +12,4 @@ Kaggle Notebooks:
 1. [FaceVIDMask with Social Distancing](https://www.kaggle.com/sumeghanareddy/facevidmask-with-social-distancing)
 2. [Masked Face Recognition](https://www.kaggle.com/sumeghanareddy/mask-face-recognition?scriptVersionId=89928020)
 3. [Updated with Lr, Rf models](https://www.kaggle.com/lohithabhagam/facevidmask-with-social-distancing)
+4. [DT, XGB models](https://www.kaggle.com/sairuthwikreddi/face-recognition-with-dt-xgb)
